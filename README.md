@@ -1,1 +1,1 @@
-# Introducao-Python
+# Códigos dos exercícios de Python do livro [Introdução à Programação com Python](https://www.amazon.com.br/Introdu-C3-A7-C3-A3o-Programa-C3-A7-C3-A3o-com-Python-programa-C3-A7-C3-A3o-dp-8575228862/dp/8575228862/ref=dp_ob_title_bk)
