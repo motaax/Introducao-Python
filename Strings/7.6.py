@@ -34,8 +34,8 @@ while True:
             print("Você errou!")
 
     print("X==:==")
-    print("X :")
-    print("X O" if erros >= 1 else "X")
+    print("X  :")
+    print("X  O" if erros >= 1 else "X")
 
     linha2 = ""
     if erros == 2:
